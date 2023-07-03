@@ -2,9 +2,10 @@
 
 /**
  * main - Entry point
- * Description:print a quote using write function write(int fd.cinst void *buf,size_t count).
+ * Description:print a quote using write function
+ *    ssize_t write(int fd.cinst void *buf,size_t count).
  *
- * Return: 1 (error)
+ * Return: 1 (error).
 */
 
 int main(void)
